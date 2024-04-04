@@ -12,7 +12,11 @@ nav {
   z-index: 100 !important;
 }
 .logo {
-  width: 15vw;
+  background-image: url('images/NSDC.png');
+  background-size: cover;
+  /* width: 15vw; */
+  height: 50px;
+  width: 50px;
 }
 
 #logo-icon {
