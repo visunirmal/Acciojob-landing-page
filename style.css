@@ -11,6 +11,10 @@ nav {
   top: 0px;
   z-index: 100 !important;
 }
+nav_logo{
+  height: 50px;
+  width: 100px;
+}
 .logo {
   background-image: url('images/NSDC.png');
   background-size: cover;
